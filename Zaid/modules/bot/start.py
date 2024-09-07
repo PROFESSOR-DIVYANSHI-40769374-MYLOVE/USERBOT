@@ -19,12 +19,12 @@ async def hello(client: app, message):
                 InlineKeyboardButton(text="⦿ sᴇssɪᴏɴ ɢᴇɴ ʙᴏᴛ ⦿", url="https://t.me/String_Generate_op_bot")
                 ],
                 [
-                    InlineKeyboardButton("⦿ sᴜᴘᴘᴏʀᴛ ⦿", url="https://t.me/Friends_Chatting_Masti_Group"),
+                    InlineKeyboardButton("⦿ sᴜᴘᴘᴏʀᴛ ⦿", url="https://t.me/professorxnetwork"),
                     InlineKeyboardButton("⦿ ᴜᴘᴅᴀᴛᴇ ⦿", url="https://t.me/PROFESSOR_NETWORK")
                 ],
                 [
                     InlineKeyboardButton("⦿ ʀᴇᴘᴏ ⦿", url="https://t.me/PrivateBotRepo"),
-                    InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ⦿", url="https://t.me/II_PROFESSOR_SOURABH_II")
+                    InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ⦿", url="https://t.me/SOURABH_100RABH")
             ],
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
